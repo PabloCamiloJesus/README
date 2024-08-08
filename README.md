@@ -3,7 +3,8 @@
   
   
   ## Sobre Mim
-<img src="https://tenor.com/pt-BR/view/sabo-mera-mera-no-mi-gif-22509437" width="400" />
+![Descrição divertida do GIF](https://example.com/meu-gif.gif)
+
 
   Olá! Eu sou Pablo Camilo, um estudante do terceiro ano do Novo Ensino Médio no SESI-SENAI, cursando Técnico em Desenvolvimento de Sistemas. Estou desenvolvendo habilidades em tecnologias web e mobile, como HTML, CSS, JavaScript, React, React Native, MySQL, Firebase e WordPress.
   
