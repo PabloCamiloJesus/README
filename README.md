@@ -3,7 +3,7 @@
   
   
   ## Sobre Mim
-[Sabo levantando a cartola](https://example.com/meu-gif.gif)
+[Sabo levantando a cartola](https://tenor.com/pt-BR/view/omori-sabo-muito-sabido-muito-sabido-sabo-gif-2280530130646543724)
 
 
   Olá! Eu sou Pablo Camilo, um estudante do terceiro ano do Novo Ensino Médio no SESI-SENAI, cursando Técnico em Desenvolvimento de Sistemas. Estou desenvolvendo habilidades em tecnologias web e mobile, como HTML, CSS, JavaScript, React, React Native, MySQL, Firebase e WordPress.
