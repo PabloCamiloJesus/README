@@ -5,8 +5,7 @@
   ## Sobre Mim
 <img align="right" alt="gif" height="150" style="border-radius: 50px; margin-left: 20px;" src="https://tenor.com/pt-BR/view/sabo-gif-22731369.gif">
 
-
-  Olá! Eu sou Pablo Camilo, um estudante do terceiro ano do Novo Ensino Médio no SESI-SENAI, cursando Técnico em Desenvolvimento de Sistemas. Estou desenvolvendo habilidades em tecnologias web e mobile, como HTML, CSS, JavaScript, React, React Native, MySQL, Firebase e WordPress.
+  Olá! Eu sou Pablo Camilo, um estudante do terceiro ano do Novo Ensino Médio no SESI-SENAI, cursando Técnico em Desenvolvimento de Sistemas. Estou desenvolvendo habilidades em tecnologias web e mobile, como HTML, CSS, JavaScript, React, React Native, MySQL, Firebase e Wordpress.
   
 
   ### Tecnologias e Habilidades
@@ -46,6 +45,7 @@
   ## Contato
 
   - Email: pcpablotpajesuspc@gmail.com
+  - Linkedin: www.linkedin.com/in/pablo-camilo-tpa-de-jesus-51bb3b294
 
   Sinta-se à vontade para explorar meus projetos e entrar em contato!
 </div>
