@@ -43,9 +43,8 @@
 </div>
 
   ## Contato
-
-  - Email: pcpablotpajesuspc@gmail.com
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)] Linkedin: www.linkedin.com/in/pablo-camilo-tpa-de-jesus-51bb3b294
+  [Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) Email: pcpablotpajesuspc@gmail.com <br>
+  ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) Linkedin: www.linkedin.com/in/pablo-camilo-tpa-de-jesus-51bb3b294
 
   Sinta-se à vontade para explorar meus projetos e entrar em contato!
 </div>
