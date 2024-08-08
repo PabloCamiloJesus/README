@@ -35,13 +35,15 @@
         <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=PabloCamiloJesus&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages" />  
     </a>
     <a href="https://github.com/Danielomes">
-        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=PabloCamiloJesus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloCamiloJesus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false" alt="GitHub Stats" />
     </a>
+  
+
 </div>
 
   ## Contato
 
-  - Email: pcpablotpajesuspc@gmail.com@gmail.com
+  - Email: pcpablotpajesuspc@gmail.com
 
   Sinta-se à vontade para explorar meus projetos e entrar em contato!
 </div>
