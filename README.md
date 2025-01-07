@@ -5,7 +5,7 @@
   ## Sobre mim
 <img align="right" alt="gif" height="150" style="border-radius: 50px; margin-left: 20px;" src="https://tenor.com/pt-BR/view/sabo-gif-22731369.gif">
 
-  Olá! Eu sou Pablo Camilo, um estudante do terceiro ano do Novo Ensino Médio no SESI-SENAI, cursando Técnico em Desenvolvimento de Sistemas. Estou desenvolvendo habilidades em tecnologias web e mobile, como HTML, CSS, JavaScript, React, React Native, MySQL, Firebase e Wordpress.
+  Olá! Eu sou Pablo Camilo, um formado do Novo Ensino Médio no SESI-SENAI e Técnico em Desenvolvimento de Sistemas, pelo mesmo projeto educacional. Estou desenvolvendo habilidades em tecnologias web e mobile, como HTML, CSS, JavaScript, React, React Native, MySQL, Firebase e dentre outras.
   
 
   ### Tecnologias e Habilidades
@@ -22,14 +22,19 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-## CMS
-![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
   ## Projetos
 
   ### Projeto 1: PineApple Company
   Descrição: Site finalizado utilizando apenas HTML e CSS.
   - GitHub: [PineApple-Company](https://github.com/leonardosantana214/PineApple-Company)
+
+  ### Projeto 2: Cat-Assist
+  Descrição: Webapp e Mobile finalizado utilizando tecnologias como React.Js, React-Native, Firebase, Gemini AI e etc.
+  Versão Web
+  - GitHub: [Cat-Assist-Web](https://github.com/PabloCamiloJesus/cat-assist-web)
+
+  Versão Mobile
+  - Github: [Cat-Assist-Mobile](https://github.com/PabloCamiloJesus/CAT-Assist-Mobile)
 
 <div>
     <a href="https://github.com/PabloCamiloJesus">
